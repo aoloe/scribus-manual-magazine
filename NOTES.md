@@ -1,3 +1,5 @@
+# Notes
+
 [garryp in the forums](http://forums.scribus.net/index.php?action=post2;start=0;board=5):
 
 There are some "templates" around for Scribus but they're not - what I would call - "real" templates as they have no more functionality that any normal document has. Scribus templates are, essentially, just Scribus documents that have a different file type. Most templates that are available aren't very good. For the few that are good, most of them are for very specific things so you're unlikely to find something that's good for what you want.

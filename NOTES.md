@@ -21,3 +21,9 @@ Once you've got to this point you've made a big start on designing your own arti
 Now you can start to think about adding other "furniture" to the page such as page numbers and other graphical devices.
 
 Once you start learning how to use Scribus properly - rather than just inserting images and text into other people's templates - it will allow you to create anything you want.
+
+## Reasons not to use templates
+
+In most cases it's not a good idea to look for templates for creating magazines.
+
+You should look for layouts you like on paper and create a .sla based on them.

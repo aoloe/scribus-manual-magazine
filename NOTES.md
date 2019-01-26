@@ -29,3 +29,7 @@ Once you start learning how to use Scribus properly - rather than just inserting
 In most cases it's not a good idea to look for templates for creating magazines.
 
 You should look for layouts you like on paper and create a .sla based on them.
+
+## Inspiration
+
+- https://design.tutsplus.com/tutorials/how-to-create-a-professional-magazine-layout--vector-3702
